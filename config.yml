@@ -1,0 +1,29 @@
+
+# --------------------------General configurations ---------------------------------------------------
+#Electricity data from {first_year} to {last_year}.
+
+first_year: 2000
+last_year: 2023
+
+#Available data:
+data_names:
+- dassem
+- ear_subsis_dia
+- balanco_energ_subs_ho
+- cmo_se
+- cmo_tm
+- curva_carga_ho
+- cvu_usitermica_se
+- ear_bacia_di
+- ear_ree_di
+- ena_bacia_di
+- energia_vertida_turbinavel_ho
+- grandezas_fluviometricas_di
+- ind_disponibilidade_geracao_me
+- ind_disponibilidade_ft_reativo_me
+- ind_disponibilidade_ft_conversor_me
+- ind_disponibilidade_ft_trlt_me
+- intercambio_nacional_ho
+- intercambio_internacional_ho
+- ofertapreco-importacao-se
+
